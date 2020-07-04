@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://akshay-r.github.io/sitemap.txt
